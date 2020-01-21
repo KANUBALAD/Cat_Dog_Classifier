@@ -9,4 +9,13 @@ Once this is done downloading, you run main.py
 You could also directly clone the repo on my github page and then saving it in your desired local directory and running main.py
 
 ##NOTE
- Pease ensure you have all the requirements propelry installed by looking at the requirements.txt file before running the main.py file
+ Pease ensure you have all the requirements properly installed by looking at the requirements.txt file before running the main.py file
+
+
+
+
+
+
+![An example of an image using the pytorch tensorboard](https://github.com/KANUBALAD/Cat_Dog_Classifier/blob/master/Cat_dog_images.png)
+
+
